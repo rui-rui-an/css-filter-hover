@@ -22,6 +22,7 @@ export default {
 <style lang="less" scoped>
 .home {
   .mybox {
+    margin-left: 400px;
     width: 200px;
     height: 200px;
     background-color: var(--bgc);
